@@ -9,6 +9,7 @@ body {
     margin: 0;
     overflow: hidden;
     color: #333;
+    overflow-y: auto; 
 }
 
 .background {
